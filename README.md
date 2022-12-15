@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dawitJ
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JS
+- 👋 Hi
+- 🌱 I’m currently learning React JS
 - 📫 you can reach me dawit.jiru@gmail.com
 
 <!---
